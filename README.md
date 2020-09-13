@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Name: Ravi
+Working on My new Prject
+reach me at nova101004@gmail.com
+
 <!--
 **ravikumar1004/ravikumar1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
